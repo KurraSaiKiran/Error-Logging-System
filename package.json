@@ -1,0 +1,28 @@
+{
+  "name": "error-logging-system",
+  "version": "1.0.0",
+  "description": "Error Logging System in MERN Stack",
+  "main": "index.js",
+  "scripts": {
+    "setup": "cd backend && npm run setup",
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm start",
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\""
+  },
+  "keywords": [
+    "MERN",
+    "Error",
+    "Logging"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  }
+}
