@@ -13,10 +13,10 @@ A comprehensive error logging system built with the MERN stack (MySQL, Express, 
 ## Screenshots
 
 ### Database logs
-![Database logs](./screenshots/db_logs.png)
+![Database logs](https://raw.githubusercontent.com/KurraSaiKiran/Error-Logging-System/master/screenshots/db_logs.png)
 
 ### Application Interface
-![Application Interface](./screenshots/app_interface.png)
+![Application Interface](https://raw.githubusercontent.com/KurraSaiKiran/Error-Logging-System/master/screenshots/app_interface.png)
 
 ## Technologies Used
 
